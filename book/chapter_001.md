@@ -160,9 +160,9 @@ Executing it on your operating sysgtem may differ. The output will be
 hello world
 ```
 
-liek before.
+like before.
 
-You exercise is to change the **sample.go** so that when you run the program the output is
+Your exercise is to change the **sample.go** so that when you run the program the output is
 
 ```
 welcome to introduction to programming
