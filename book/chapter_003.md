@@ -1,5 +1,5 @@
-[Previous Chapter](book/chapter_002.md)
+[Previous Chapter](chapter_002.md)
 
 # Variables
 
-[Previous Chapter](book/chapter_002.md)
+[Previous Chapter](chapter_002.md)
