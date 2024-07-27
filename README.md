@@ -25,4 +25,4 @@ Second will contain solution which student can use to verify the changes made or
 ## To start just click on the link below
 
 
-[Chapter 001](book/chapter_001.md)
+[Book](book/chapter_001.md)
